@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jakub Janarek</title>
-    <link>https://jxub.github.io/categories/</link>
+    <link>http://jakubjanarek.com/categories/</link>
     <description>Recent content in Categories on Jakub Janarek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
     <atom:link href="/categories/" rel="self" type="application/rss+xml" />
     
   </channel>
