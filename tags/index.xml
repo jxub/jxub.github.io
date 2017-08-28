@@ -7,26 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2017 Jakub Janarek</copyright>
-    <lastBuildDate>Mon, 28 Aug 2017 17:20:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jul 2017 13:12:07 +0200</lastBuildDate>
     
 	<atom:link href="https://jakubjanarek.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tag1</title>
-      <link>https://jakubjanarek.com/tags/tag1/</link>
-      <pubDate>Mon, 28 Aug 2017 17:20:46 +0200</pubDate>
+      <title>Messaging Systems</title>
+      <link>https://jakubjanarek.com/tags/messaging-systems/</link>
+      <pubDate>Sun, 02 Jul 2017 13:12:07 +0200</pubDate>
       
-      <guid>https://jakubjanarek.com/tags/tag1/</guid>
+      <guid>https://jakubjanarek.com/tags/messaging-systems/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tag2</title>
-      <link>https://jakubjanarek.com/tags/tag2/</link>
-      <pubDate>Mon, 28 Aug 2017 17:20:46 +0200</pubDate>
+      <title>Python</title>
+      <link>https://jakubjanarek.com/tags/python/</link>
+      <pubDate>Sun, 04 Jun 2017 21:24:52 +0200</pubDate>
       
-      <guid>https://jakubjanarek.com/tags/tag2/</guid>
+      <guid>https://jakubjanarek.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Architecture</title>
+      <link>https://jakubjanarek.com/tags/software-architecture/</link>
+      <pubDate>Sun, 02 Jul 2017 13:12:07 +0200</pubDate>
+      
+      <guid>https://jakubjanarek.com/tags/software-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type Theory</title>
+      <link>https://jakubjanarek.com/tags/type-theory/</link>
+      <pubDate>Sun, 04 Jun 2017 21:24:52 +0200</pubDate>
+      
+      <guid>https://jakubjanarek.com/tags/type-theory/</guid>
       <description></description>
     </item>
     

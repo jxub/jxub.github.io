@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Jakub Janarek</title>
+    <link>https://jakubjanarek.com/tags/python/</link>
+    <description>Recent content in Python on Jakub Janarek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2017 Jakub Janarek</copyright>
+    <lastBuildDate>Sun, 04 Jun 2017 21:24:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://jakubjanarek.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mad Scientist: Make your own Types for IO in Python</title>
+      <link>https://jakubjanarek.com/posts/types-for-io-python/</link>
+      <pubDate>Sun, 04 Jun 2017 21:24:52 +0200</pubDate>
+      
+      <guid>https://jakubjanarek.com/posts/types-for-io-python/</guid>
+      <description>You can use custom type classes to represent semantically a return type. That means that they aren’t enforced by the type checker, as they subclass the NoneType, but they may help you in modelling the program interactions with the world in your head. In fact, they make your head work better as a “type checker” with the outside, sort of the way that Monads do in Haskell. We start by importing our types and the NewType class from the typing module, and we go from there.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,8 +8,13 @@
   </url>
   
   <url>
-    <loc>https://jakubjanarek.com/posts/my-first-post/</loc>
-    <lastmod>2017-08-28T17:20:46+02:00</lastmod>
+    <loc>https://jakubjanarek.com/posts/messaging-queues-overview/</loc>
+    <lastmod>2017-07-02T13:12:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jakubjanarek.com/posts/types-for-io-python/</loc>
+    <lastmod>2017-06-04T21:24:52+02:00</lastmod>
   </url>
   
   <url>
@@ -28,26 +33,38 @@
   </url>
   
   <url>
+    <loc>https://jakubjanarek.com/tags/messaging-systems/</loc>
+    <lastmod>2017-07-02T13:12:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jakubjanarek.com/posts/</loc>
-    <lastmod>2017-08-28T17:20:46+02:00</lastmod>
+    <lastmod>2017-07-02T13:12:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jakubjanarek.com/tags/tag1/</loc>
-    <lastmod>2017-08-28T17:20:46+02:00</lastmod>
+    <loc>https://jakubjanarek.com/tags/python/</loc>
+    <lastmod>2017-06-04T21:24:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jakubjanarek.com/tags/tag2/</loc>
-    <lastmod>2017-08-28T17:20:46+02:00</lastmod>
+    <loc>https://jakubjanarek.com/tags/software-architecture/</loc>
+    <lastmod>2017-07-02T13:12:07+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jakubjanarek.com/tags/</loc>
-    <lastmod>2017-08-28T17:20:46+02:00</lastmod>
+    <lastmod>2017-07-02T13:12:07+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jakubjanarek.com/tags/type-theory/</loc>
+    <lastmod>2017-06-04T21:24:52+02:00</lastmod>
     <priority>0</priority>
   </url>
   

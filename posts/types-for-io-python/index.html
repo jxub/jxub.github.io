@@ -16,9 +16,9 @@
 <meta property="og:site_name" content="Jakub Janarek" />
 <meta property="og:locale" content="nn_NO" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://jakubjanarek.com/about/" />
-<meta property="og:title" content="About" />
-<meta property="twitter:title" content="About">
+<meta property="og:url" content="https://jakubjanarek.com/posts/types-for-io-python/" />
+<meta property="og:title" content="Mad Scientist: Make your own Types for IO in Python" />
+<meta property="twitter:title" content="Mad Scientist: Make your own Types for IO in Python">
 
     <meta property="og:image" content="https://jakubjanarek.com/img/banner.png">
     <meta property="twitter:card" content="summary_large_image">
@@ -29,10 +29,10 @@
 <title>
 
 
-     Jakub Janarek - About 
+     Jakub Janarek - Mad Scientist: Make your own Types for IO in Python 
 
 </title>
-<link rel="canonical" href="https://jakubjanarek.com/about/">
+<link rel="canonical" href="https://jakubjanarek.com/posts/types-for-io-python/">
 
 
 <style media="screen">
@@ -988,22 +988,22 @@ margin-left: -4%;
         <div class="content">
             <div class="page-heading">
 
-    About
+    Mad Scientist: Make your own Types for IO in Python
 
 </div>
 
             <div class="markdown">
                 
     
-    
+    <p>You can use custom type classes to represent semantically a return type. That means that they aren’t enforced by the type checker, as they subclass the <code>NoneType</code>, but they may help you in modelling the program interactions with the world in your head. In fact, they make your head work better as a “type checker” with the outside, sort of the way that Monads do in Haskell. We start by importing our types and the <code>NewType</code> class from the typing module, and we go from there. A quick example for you using the <code>typing</code> module:</p>
 
-<h1 id="hi-nice-to-meet-you">Hi, nice to meet you!</h1>
+<pre><code class="language-python">from typing import NewType
 
-<p>I build software with Python, Go, and JavaScript. Ocassionally I like to give talks or attend hackathons.
-Currently I work at <a href="https://www.datamaran.com/">Datamaran</a> and <a href="finametrix.com/">Finametrix</a>.
-To get a grip on the fundamentals of CS, I am also studying it at <a href="www.upv.es">UPV</a> in València, Spain.</p>
+DB = NewType(‘DB’, None)
+StdOut = NewType(‘Stdout’, None)
+</code></pre>
 
-<p>Have a look at my <a href="https://docs.google.com/document/d/1j4P1PYyKIk0OzbpSr6CWRIawK6K1wUUs1sbahL2Qbik/edit?usp=sharing">CV</a>, let&rsquo;s get in touch!</p>
+<p>And you can go from there. A nice experiment indeed. You know, types are eating the world. Our world.</p>
 
 
             </div>

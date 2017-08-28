@@ -18,17 +18,27 @@
       <pubDate>Mon, 28 Aug 2017 17:49:07 +0200</pubDate>
       
       <guid>https://jakubjanarek.com/about/</guid>
-      <description>Jakub Hi there!</description>
+      <description>Hi, nice to meet you! I build software with Python, Go, and JavaScript. Ocassionally I like to give talks or attend hackathons. Currently I work at Datamaran and Finametrix. To get a grip on the fundamentals of CS, I am also studying it at UPV in València, Spain.
+Have a look at my CV, let&amp;rsquo;s get in touch!</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://jakubjanarek.com/posts/my-first-post/</link>
-      <pubDate>Mon, 28 Aug 2017 17:20:46 +0200</pubDate>
+      <title>Messaging Queues Overview</title>
+      <link>https://jakubjanarek.com/posts/messaging-queues-overview/</link>
+      <pubDate>Sun, 02 Jul 2017 13:12:07 +0200</pubDate>
       
-      <guid>https://jakubjanarek.com/posts/my-first-post/</guid>
-      <description>Hello there I&amp;rsquo;m Jakub.
-section I talk about foo, do bar.</description>
+      <guid>https://jakubjanarek.com/posts/messaging-queues-overview/</guid>
+      <description>I wrote piece this while researching how does Kafka work, as we are using it at Datamaran for our messaging system. Hope you&amp;rsquo;ll find this long slog a productive and enjoyable read ;)
+Messaging queues allow applications to communicate y sending and reading messages between them. Every messaging queue implements an asynchronous protocol, that is a system that does not require for the message to be responded to immediately (think of, HTTP for example).</description>
+    </item>
+    
+    <item>
+      <title>Mad Scientist: Make your own Types for IO in Python</title>
+      <link>https://jakubjanarek.com/posts/types-for-io-python/</link>
+      <pubDate>Sun, 04 Jun 2017 21:24:52 +0200</pubDate>
+      
+      <guid>https://jakubjanarek.com/posts/types-for-io-python/</guid>
+      <description>You can use custom type classes to represent semantically a return type. That means that they aren’t enforced by the type checker, as they subclass the NoneType, but they may help you in modelling the program interactions with the world in your head. In fact, they make your head work better as a “type checker” with the outside, sort of the way that Monads do in Haskell. We start by importing our types and the NewType class from the typing module, and we go from there.</description>
     </item>
     
     <item>
