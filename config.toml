@@ -1,4 +1,5 @@
-baseURL = "https://jakub.cc"
+baseURL = "https://jakub.cc/"
 languageCode = "en-us"
 title = "jakub's blog"
 theme = "ezhil"
+publishDir = "docs"

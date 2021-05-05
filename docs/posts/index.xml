@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on jakub&#39;s blog</title>
+    <link>https://jakub.cc/posts/</link>
+    <description>Recent content in Posts on jakub&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 May 2021 00:46:49 +0100</lastBuildDate><atom:link href="https://jakub.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multicurrency setup for Ledger CLI</title>
+      <link>https://jakub.cc/posts/multicurrency-setup-ledger/</link>
+      <pubDate>Wed, 05 May 2021 00:46:49 +0100</pubDate>
+      
+      <guid>https://jakub.cc/posts/multicurrency-setup-ledger/</guid>
+      <description>I wanted to start using double-entry accounting for a long time, but I never knew how to start, since I use an eclectic mix of Polish/English/Spanish acccounts in PLN/GBP/EUR.
+This is a guide for mostly myself as I go along, but feel free to use it as a guidance to set-up your ledger and be one step closer towards controlling your financial data.</description>
+    </item>
+    
+    <item>
+      <title>Poland: Notes From a Different Place</title>
+      <link>https://jakub.cc/posts/notes-from-a-different-place/</link>
+      <pubDate>Wed, 05 May 2021 00:46:20 +0100</pubDate>
+      
+      <guid>https://jakub.cc/posts/notes-from-a-different-place/</guid>
+      <description>Poland isn&amp;rsquo;t an island, but it might as well be. On the surface, the country is the most Christian and fundamentalist place in the European Union, but the situation is a tad bit more complex than that.</description>
+    </item>
+    
+    <item>
+      <title>Crypto: the Three Endgames</title>
+      <link>https://jakub.cc/posts/crypto-the-three-endgames/</link>
+      <pubDate>Wed, 05 May 2021 00:45:40 +0100</pubDate>
+      
+      <guid>https://jakub.cc/posts/crypto-the-three-endgames/</guid>
+      <description>I&amp;rsquo;ve found recently this tweet:
+https://twitter.com/Tr0llyTr0llFace/status/1389548874688307203
+I thought the three scenarios were interesting, so I thought to do a bit of a thought experiment and see when they happen.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://jakub.cc/posts/my-first-post/</link>
+      <pubDate>Mon, 03 May 2021 17:39:24 +0100</pubDate>
+      
+      <guid>https://jakub.cc/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
