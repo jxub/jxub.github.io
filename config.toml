@@ -1,5 +1,7 @@
-baseURL = "https://jakub.cc/"
+baseURL = "https://jakubjanarek.com/"
 languageCode = "en-us"
 title = "jakub's blog"
 theme = "ezhil"
-publishDir = "docs"
+
+[outputs]
+home = ["HTML", "RSS", "404"]

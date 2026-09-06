@@ -1,0 +1,12 @@
+{
+  "name": "jakub-blog",
+  "private": true,
+  "scripts": {
+    "build": "./build.sh",
+    "deploy": "wrangler deploy",
+    "dev": "npm run build && wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.129.0"
+  }
+}
