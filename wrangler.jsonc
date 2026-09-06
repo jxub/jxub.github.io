@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "jakub-blog",
+  "compatibility_date": "2026-09-06",
+  "build": {
+    "command": "chmod a+x build.sh && ./build.sh"
+  },
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { "pattern": "jakubjanarek.com", "custom_domain": true },
+    { "pattern": "www.jakubjanarek.com", "custom_domain": true }
+  ]
+}
